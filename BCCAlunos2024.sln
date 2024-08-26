@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCCAlunos2024", "BCCAlunos2024.csproj", "{04C66C72-CE2E-47FC-8CB2-06892594B993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C66C72-CE2E-47FC-8CB2-06892594B993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C66C72-CE2E-47FC-8CB2-06892594B993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C66C72-CE2E-47FC-8CB2-06892594B993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C66C72-CE2E-47FC-8CB2-06892594B993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE72D5A-1EE0-4FB0-AE1E-868366EEAFE6}
+	EndGlobalSection
+EndGlobal
